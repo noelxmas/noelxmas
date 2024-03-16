@@ -8,7 +8,7 @@
 <a href='https://github.com/noelxmas' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=flat-square&logo=Github&logoColor=050505&labelColor=FFFFFF&color=000000'/></a>
 
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpjN25nNDNid2x2eDNwaXY3YzVxaGw0bmNmem8ybTM5M2wxaDU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZBgCqq8BQJqMhUkpmL/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpjN25nNDNid2x2eDNwaXY3YzVxaGw0bmNmem8ybTM5M2wxaDU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZBgCqq8BQJqMhUkpmL/giphy.gif" width="50"> About Me...  
 
 ```javascript
 const thai = {
@@ -16,15 +16,14 @@ const thai = {
   code: [Javascript, , HTML, CSS, MySQL, MongoDB, Java],
   tools: [Unity, Android, Node,Adobe After Efects , Adobe Photoshop,],
   architecture: ["social services", "graphic design", "malware producing"],
-  techCommunities: {
-                        coorganizer: "noelxmas",
-                        speaker: "noelxmas",
-                        mentor: "noelxmas"
+  Communities: {
+                        FiveM Scripts: "discord.gg/bravedev",
+                        FiveM Server: "discord.gg/groviav",
+                        Graphic Design: "discord.gg/noeldesign"
                       },
  challenge: "I am completely focused on Design."
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
