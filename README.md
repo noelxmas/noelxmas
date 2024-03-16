@@ -11,8 +11,8 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpjN25nNDNid2x2eDNwaXY3YzVxaGw0bmNmem8ybTM5M2wxaDU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZBgCqq8BQJqMhUkpmL/giphy.gif" width="50"> About Me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const noel = {
+  pronouns: "he" | "him",
   code: [Javascript, , HTML, CSS, MySQL, MongoDB, Java],
   tools: [Unity, Android, Node,Adobe After Efects , Adobe Photoshop,],
   architecture: ["social services", "graphic design", "malware producing"],
